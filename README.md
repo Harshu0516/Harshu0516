@@ -7,14 +7,14 @@ Apart from programming, I enjoy esports and gaming. These activities help me rel
 ## 🛠 My Skills
 - *Languages*: Java , C, Kotlin , JavaScript.
 - *Technical Skills*: Data Structures and Algorithms, Machine Learning
-- *Tools*:Jupyter Notebook,Android Studio.
+- *Tools*: Jupyter Notebook, Android Studio.
  
 ## Profiles
 [![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)]((https://www.linkedin.com/in/harsh-pratap-82067024b/))
 [![LeetCode](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png)](https://leetcode.com/u/harshdrax0516/)
 [![Coding Ninjas](https://img.icons8.com/color/48/000000/ninja-head.png)](https://www.naukri.com/code360/profile/harshNoob)
-[![GeeksforGeeks](https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000)](https://www.geeksforgeeks.org/user/harshdr5tdx/)
-[![GeeksforGeeks](https://img.icons8.com/?size=100&id=4z2zrIWYmGqx&format=png&color=000000)](https://www.geeksforgeeks.org/user/harshdr5tdx/)
+[![GeeksforGeeks](https://img.icons8.com/?id=AbQBhN9v62Ob&format=png)](https://www.geeksforgeeks.org/user/harshdr5tdx/)
+[![CodeChef](https://img.icons8.com/?id=LnZMjt9rZC3d&format=png)](https://www.codechef.com/users/harshpratap051)
 
 
 
